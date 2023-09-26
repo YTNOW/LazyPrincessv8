@@ -1,37 +1,37 @@
 class script(object):
     START_TXT = """Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
+I am <a href=https://t.me/{}>{}</a>,\n\nTrust me! I can't even imagine how super-fast I can drive your Database channel.\n\nAre you ready for a long drive, baby...🤪"""
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/GamerBhai02 >Abu Talha Ansari's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/GamerBhai02Bots>Dev Channel</a> and stay tuned for next <a href=https://telegram.me/+QgSl55NlTiI0NDhl>Update</a>.\n\n  🐞 Report Bug here: <a href=https://telegram.me/+pp_D21tjCtAzMjc1>Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/GamerBhai02 >Abu Talha Ansari's</a> work.\n\n<b>File to Link converting</b> feature will be available soon, please join <a href=https://t.me/GamerBhai02Bots>Dev Channel</a> and stay tuned for next <a href=https://telegram.me/+QgSl55NlTiI0NDhl>Update</a>.\n\n  🐞 Report Bug here: <a href=https://telegram.me/+pp_D21tjCtAzMjc1>Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/GamerBhai02 >Abu Talha Ansari's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=https://t.me/gamerbhai02bots/3>Click here...</a>\n\n❤️ Thank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nSorry.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://telegram.me/+pp_D21tjCtAzMjc1>Support</a>\n\n
     """
     ALRDY_UPLDD_TEXT = """✅ Content is already uploaded.\n\nName:{}\nPlease make sure about your spelling before submiting request..."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/GamerBhai02>Abu Talha Ansari</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Lazy Princess is an open source project. 
-- Source - https://github.com/LazyDeveloperr/LazyPrincess  
+- All Movies Link Bot is an open source project. 
+- Source - Contact DEV for Source link.
 
 <b>DEVS:</b>
-- <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>"""
+- <a href=https://t.me/GamerBhai02>Abu Talha Ansari</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
+- Filter is the feature where users can set automated replies for a particular keyword, and All Movies Link Bot will respond whenever that keyword is mentioned in a message.
 
 <b>NOTE:</b>
 1. BOT should have admin privillage.
@@ -53,7 +53,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/GamerBhai02Bots)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -80,7 +80,7 @@ Here is the help for my COMMANDS."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Lazy Princess
+these are the extra features of All Movies Link Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>

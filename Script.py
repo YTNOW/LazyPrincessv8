@@ -1,37 +1,37 @@
 class script(object):
     START_TXT = """Hello {},
-I am <a href=https://t.me/AllMoviesLinkBot>All Movies Link</a>,\n\nTrust me! I can't even imagine how super-fast I can drive your Database channel.\n\nAre you ready for a long drive, baby...🤪"""
+I am <a href=https://t.me/ALAS_NOW_BOT_made_bot>ALAS_NOW</a>,\n\nTrust me! I can't even imagine how super-fast I can drive your Database channel.\n\nAre you ready for a long drive, baby...🤪"""
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/GamerBhai02 >Abu Talha Ansari's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/GamerBhai02Bots>Dev Channel</a> and stay tuned for next <a href=https://telegram.me/+QgSl55NlTiI0NDhl>Update</a>.\n\n  🐞 Report Bug here: <a href=https://telegram.me/+pp_D21tjCtAzMjc1>Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/My_Name_is_developer >ABHISHEK KRISHNA .U's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/+g4wGyhxN_m01MWVl>Dev Channel</a> and stay tuned for next <a href=https://telegram.me/ALAS_NOW>Update</a>.\n\n  🐞 Report Bug here: <a href=https://telegram.me/ALAS_NOW>Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/GamerBhai02 >Abu Talha Ansari's</a> work.\n\n<b>File to Link converting</b> feature will be available soon, please join <a href=https://t.me/GamerBhai02Bots>Dev Channel</a> and stay tuned for next <a href=https://telegram.me/+QgSl55NlTiI0NDhl>Update</a>.\n\n  🐞 Report Bug here: <a href=https://telegram.me/+pp_D21tjCtAzMjc1>Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/My_Name_is_developer >ABHISHEK KRISHNA .U</a> work.\n\n<b>File to Link converting</b> feature will be available soon, please join <a href=https://t.me/+g4wGyhxN_m01MWVl>Dev Channel</a> and stay tuned for next <a href=https://telegram.me/ALAS_NOW>Update</a>.\n\n  🐞 Report Bug here: <a href=https://telegram.me/ALAS_NOW>Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/GamerBhai02 >Abu Talha Ansari's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=https://t.me/gamerbhai02bots/3>Click here...</a>\n\n❤️ Thank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/My_Name_is_developer >ABHISHEK KRISHNA .U</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=https://t.me/+g4wGyhxN_m01MWVl>Click here...</a>\n\n❤️ Thank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://telegram.me/+pp_D21tjCtAzMjc1>Support</a>\n\n
+\nSorry.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://telegram.me/ALAS_NOW>Support</a>\n\n
     """
     ALRDY_UPLDD_TEXT = """✅ Content is already uploaded.\n\nName:{}\nPlease make sure about your spelling before submiting request..."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/AllMoviesLinkBot>All Movies Link</a>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/GamerBhai02>Abu Talha Ansari</a>
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/ALAS_NOW>ALAS_NOW</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/My_Name_is_developer>ABHISHEK KRISHNA .U</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v5.0.0"""
     SOURCE_TXT = """<b>NOTE:</b>
-- All Movies Link Bot is an open source project. 
+- ALAS_NOW is an open source project. 
 - Source - Contact DEV for Source link.
 
 <b>DEVS:</b>
-- <a href=https://t.me/GamerBhai02>Abu Talha Ansari</a>"""
+- <a href=https://t.me/My_Name_is_developer>ABHISHEK KRISHNA .U</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature where users can set automated replies for a particular keyword, and All Movies Link Bot will respond whenever that keyword is mentioned in a message.
+- Filter is the feature where users can set automated replies for a particular keyword, and ALAS_NOW will respond whenever that keyword is mentioned in a message.
 
 <b>NOTE:</b>
 1. BOT should have admin privillage.
@@ -53,7 +53,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/GamerBhai02Bots)</code>
+<code>[Button Text](buttonurl:https://t.me/+g4wGyhxN_m01MWVl)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""

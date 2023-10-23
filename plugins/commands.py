@@ -23,12 +23,12 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/+QgSl55NlTiI0NDhl')
+                InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/ALASUpdate')
             ],
             [
                 InlineKeyboardButton('🙆🏻 Help 🦾', url=f"https://t.me/{BOT_USERNAME}?start=help"),
             ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://t.me/+QgSl55NlTiI0NDhl')
+            InlineKeyboardButton('Watch Tutorial', url='https://t.me/ALASUpdate')
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -50,12 +50,12 @@ async def start(client, message):
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{BOT_USERNAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🧞‍♀️ Search 🧐', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/+QgSl55NlTiI0NDhl')
+            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/ALASUpdate')
             ],[
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
             ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://t.me/+QgSl55NlTiI0NDhl')
+            InlineKeyboardButton('Watch Tutorial', url='https://t.me/ALASUpdate')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -79,7 +79,7 @@ async def start(client, message):
             ],
              [
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE TG Channel 🦋", url='https://t.me/+QgSl55NlTiI0NDhl'
+                    "🦋 SUBSCRIBE TG Channel 🦋", url='https://t.me/ALASUpdate'
                 )
             ]
         ]
@@ -103,12 +103,12 @@ async def start(client, message):
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{BOT_USERNAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🧞‍♀️ Search 🧐', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/+QgSl55NlTiI0NDhl')
+            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/ALASUpdate')
             ],[
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
         ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://t.me/+QgSl55NlTiI0NDhl')
+            InlineKeyboardButton('Watch Tutorial', url='https://t.me/ALASUpdate')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
